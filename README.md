@@ -1,4 +1,4 @@
-# 🎵 Spotify PM Deck: Improving Free-to-Premium Conversion Rate (CR)
+# 🎵 Spotify PM Deck: Improving Free-to-Premium Conversion Rate (CR) 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Domain](https://img.shields.io/badge/Domain-Product%20Management-blue.svg)]()
